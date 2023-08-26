@@ -4,7 +4,8 @@ Tento projekt obsahuje 2D hru naprogramovanou podle klasické hry bomberman. Hra
 ## Průběh hry
 Ve hře ovládáte hráče, který bombami ničí překážky a nepřátele. Jeho úkolem je na herním poli najít jednu z modrých plošin, které ho přenesou do další úrovně. Může také najít jedno z vylepšení jeho schopností v každé úrovni. Vylepšení a plošiny se nachází pod jednou ze zničitelných překážek, pokud hráč zničí všechny nepřátele odhalí se pod jakou překážkou se vylepšení nachází. Vylepšení mohou například zvýšit počet životů, zvětšit dosah výbuchu nebo zvýšit počet bomb, co může hráč najednou položit.
 ###  
-![image](https://github.com/picl-m/Bomberman/assets/87586480/2be7a090-a2e2-4564-a0d8-6d700a79cf28)
+https://github.com/picl-m/bomberman/assets/87586480/00ab4ef8-2275-431b-907d-d64f793fd508
+
 ## Instalace
 Na windows je možné stáhnout release verzi a extrahovat soubor "bomberman-release-win.zip". Pro spuštění programu stačí otevřít soubor "Bomberman.exe".
 ## Ovládání
