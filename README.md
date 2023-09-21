@@ -2,7 +2,7 @@
 ## Description
 A 2D bomberman game made with C++ and SFML library.
 ## Gameplay
-Place bombs in the level to clear enemies and blocks. To get to the next level, the player must find a blue tile hidden under one of the blocks. Each level also contains one upgrade under one of the blocks. To reveal it, the player has to clear all the enemies inside the level.
+Place bombs in the level to clear enemies and blocks. To get to the next level, the player must find a blue tile hidden under one of the blocks. Each level also contains one upgrade. To reveal it the player has to clear all the enemies inside the level.
 ###  
 https://github.com/picl-m/bomberman/assets/87586480/d3c6300c-5709-4456-b033-d3d613a6506d
 ## Installation
